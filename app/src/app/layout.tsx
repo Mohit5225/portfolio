@@ -5,7 +5,7 @@ import ClickParticles from "./components/ClickParticles";  // Add this import
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Mohit Patel — Portfolio",
+  title: "Mohit Murjani — Portfolio",
   description: "Engineer • Developer • Builder",
 };
 
