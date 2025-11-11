@@ -16,7 +16,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <ClickParticles particleSizeRange={[9, 15]} particleColors={["#c4bb75"]} />  {/* Updated props for bigger, dark blue particles */}
         {/* center column wrapper */} 
         <main className="min-h-screen">
-          <div className="w-full max-w-3xl px-29 py-24 mx-auto">{children}</div>
+          <div className="w-full max-w-3xl px-4 sm:px-9 py-12 sm:py-24 mx-auto">{children}</div>
         </main>
       </body>
     </html>
